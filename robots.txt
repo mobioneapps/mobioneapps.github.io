@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://www.mobioneapps.com/sitemap.xml 
+Sitemap: http://mobioneapps.github.io/sitemap.xml 

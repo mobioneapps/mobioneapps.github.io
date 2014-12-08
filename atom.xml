@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[MobiONE]]></title>
-  <link href="http://www.mobioneapps.com/atom.xml" rel="self"/>
-  <link href="http://www.mobioneapps.com/"/>
-  <updated>2014-12-08T10:33:52-02:00</updated>
-  <id>http://www.mobioneapps.com/</id>
+  <link href="http://mobioneapps.github.io/atom.xml" rel="self"/>
+  <link href="http://mobioneapps.github.io/"/>
+  <updated>2014-12-08T10:35:50-02:00</updated>
+  <id>http://mobioneapps.github.io/</id>
   <author>
     <name><![CDATA[MobiONE]]></name>
     
